@@ -1,0 +1,1125 @@
+fileFormatVersion: 2
+guid: 08979ccdb9cc8e74ea31722b23364513
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: WoodySprites_0
+    21300002: WoodySprites_1
+    21300004: WoodySprites_2
+    21300006: WoodySprites_3
+    21300008: WoodySprites_4
+    21300010: WoodySprites_5
+    21300012: WoodySprites_6
+    21300014: WoodySprites_7
+    21300016: WoodySprites_8
+    21300018: WoodySprites_9
+    21300020: WoodySprites_10
+    21300022: WoodySprites_11
+    21300024: WoodySprites_12
+    21300026: WoodySprites_13
+    21300028: WoodySprites_14
+    21300030: WoodySprites_15
+    21300032: WoodySprites_16
+    21300034: WoodySprites_17
+    21300036: WoodySprites_18
+    21300038: WoodySprites_19
+    21300040: WoodySprites_20
+    21300042: WoodySprites_21
+    21300044: WoodySprites_22
+    21300046: WoodySprites_23
+    21300048: WoodySprites_24
+    21300050: WoodySprites_25
+    21300052: WoodySprites_26
+    21300054: WoodySprites_27
+    21300056: WoodySprites_28
+    21300058: WoodySprites_29
+    21300060: WoodySprites_30
+    21300062: WoodySprites_31
+    21300064: WoodySprites_32
+    21300066: WoodySprites_33
+    21300068: WoodySprites_34
+    21300070: WoodySprites_35
+    21300072: WoodySprites_36
+    21300074: WoodySprites_37
+    21300076: WoodySprites_38
+    21300078: WoodySprites_39
+    21300080: WoodySprites_40
+    21300082: WoodySprites_41
+    21300084: WoodySprites_42
+    21300086: WoodySprites_43
+    21300088: WoodySprites_44
+    21300090: WoodySprites_45
+    21300092: WoodySprites_46
+    21300094: WoodySprites_47
+    21300096: WoodySprites_48
+    21300098: WoodySprites_49
+    21300100: WoodySprites_50
+    21300102: WoodySprites_51
+    21300104: WoodySprites_52
+    21300106: WoodySprites_53
+    21300108: WoodySprites_54
+    21300110: WoodySprites_55
+    21300112: WoodySprites_56
+    21300114: WoodySprites_57
+    21300116: WoodySprites_58
+    21300118: WoodySprites_59
+    21300120: WoodySprites_60
+    21300122: WoodySprites_61
+    21300124: WoodySprites_62
+    21300126: WoodySprites_63
+    21300128: WoodySprites_64
+    21300130: WoodySprites_65
+    21300132: WoodySprites_66
+    21300134: WoodySprites_67
+    21300136: WoodySprites_68
+    21300138: WoodySprites_69
+    21300140: WoodySprites_70
+    21300142: WoodySprites_71
+    21300144: WoodySprites_72
+    21300146: WoodySprites_73
+    21300148: WoodySprites_74
+    21300150: WoodySprites_75
+    21300152: WoodySprites_76
+    21300154: WoodySprites_77
+    21300156: WoodySprites_78
+    21300158: WoodySprites_79
+    21300160: WoodySprites_80
+    21300162: WoodySprites_81
+    21300164: WoodySprites_82
+    21300166: WoodySprites_83
+    21300168: WoodySprites_84
+    21300170: WoodySprites_85
+    21300172: WoodySprites_86
+    21300174: WoodySprites_87
+    21300176: WoodySprites_88
+    21300178: WoodySprites_89
+    21300180: WoodySprites_90
+    21300182: WoodySprites_91
+    21300184: WoodySprites_92
+    21300186: WoodySprites_93
+    21300188: WoodySprites_94
+    21300190: WoodySprites_95
+    21300192: WoodySprites_96
+    21300194: WoodySprites_97
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: WoodySprites_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 650
+        width: 40
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WoodySprites_1
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 650
+        width: 39
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WoodySprites_2
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 649
+        width: 40
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WoodySprites_3
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 649
+        width: 40
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WoodySprites_4
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 648
+        width: 39
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WoodySprites_5
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 648
+        width: 40
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WoodySprites_6
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 649
+        width: 40
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WoodySprites_7
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 649
+        width: 37
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WoodySprites_8
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 650
+        width: 40
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WoodySprites_9
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 651
+        width: 39
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WoodySprites_10
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 650
+        width: 39
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WoodySprites_11
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 651
+        width: 40
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WoodySprites_12
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 650
+        width: 39
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WoodySprites_13
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 651
+        width: 40
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WoodySprites_14
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 651
+        width: 40
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WoodySprites_15
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 547
+        width: 39
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WoodySprites_16
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 546
+        width: 38
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WoodySprites_17
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 546
+        width: 39
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WoodySprites_18
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 545
+        width: 38
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WoodySprites_19
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 545
+        width: 39
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WoodySprites_20
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 546
+        width: 41
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WoodySprites_21
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 545
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WoodySprites_22
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 546
+        width: 43
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WoodySprites_23
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 546
+        width: 44
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WoodySprites_24
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 546
+        width: 46
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WoodySprites_25
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 544
+        width: 47
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WoodySprites_26
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 543
+        width: 47
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WoodySprites_27
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 544
+        width: 46
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WoodySprites_28
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 542
+        width: 46
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WoodySprites_29
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 540
+        width: 47
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WoodySprites_30
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 432
+        width: 51
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WoodySprites_31
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 425
+        width: 53
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WoodySprites_32
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 430
+        width: 54
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WoodySprites_33
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 435
+        width: 56
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WoodySprites_34
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 435
+        width: 56
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WoodySprites_35
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 439
+        width: 55
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WoodySprites_36
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 441
+        width: 55
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WoodySprites_37
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 441
+        width: 53
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WoodySprites_38
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 437
+        width: 54
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WoodySprites_39
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 435
+        width: 52
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WoodySprites_40
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 431
+        width: 51
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WoodySprites_41
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 447
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WoodySprites_42
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 442
+        width: 43
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WoodySprites_43
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 330
+        width: 51
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WoodySprites_44
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 323
+        width: 50
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WoodySprites_45
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 324
+        width: 52
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WoodySprites_46
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 319
+        width: 51
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WoodySprites_47
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 318
+        width: 54
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WoodySprites_48
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 317
+        width: 53
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WoodySprites_49
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 322
+        width: 79
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WoodySprites_50
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 317
+        width: 104
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WoodySprites_51
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 312
+        width: 105
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WoodySprites_52
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 309
+        width: 115
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WoodySprites_53
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 328
+        width: 68
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WoodySprites_54
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 220
+        width: 116
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WoodySprites_55
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 217
+        width: 120
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WoodySprites_56
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 217
+        width: 122
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WoodySprites_57
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 214
+        width: 119
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WoodySprites_58
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 209
+        width: 110
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WoodySprites_59
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 207
+        width: 110
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WoodySprites_60
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 203
+        width: 69
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WoodySprites_61
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 102
+        width: 69
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WoodySprites_62
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 105
+        width: 52
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WoodySprites_63
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 106
+        width: 52
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WoodySprites_64
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 104
+        width: 47
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WoodySprites_65
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 109
+        width: 46
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WoodySprites_66
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 110
+        width: 44
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WoodySprites_67
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 110
+        width: 43
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WoodySprites_68
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 106
+        width: 44
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WoodySprites_69
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 105
+        width: 48
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WoodySprites_70
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 108
+        width: 49
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WoodySprites_71
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 108
+        width: 53
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WoodySprites_72
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 112
+        width: 58
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WoodySprites_73
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 18
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WoodySprites_74
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 4
+        width: 51
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WoodySprites_75
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 74
+        width: 36
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WoodySprites_76
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 77
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WoodySprites_77
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 77
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WoodySprites_78
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 15
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WoodySprites_79
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 12
+        width: 53
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WoodySprites_80
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 8
+        width: 52
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WoodySprites_81
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 6
+        width: 51
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WoodySprites_82
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 8
+        width: 48
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WoodySprites_83
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 8
+        width: 51
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WoodySprites_84
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 13
+        width: 112
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WoodySprites_85
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 59
+        width: 28
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WoodySprites_86
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 59
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WoodySprites_87
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 59
+        width: 23
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WoodySprites_88
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 35
+        width: 33
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WoodySprites_89
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 35
+        width: 22
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WoodySprites_90
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 35
+        width: 29
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WoodySprites_91
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 38
+        width: 29
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WoodySprites_92
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 41
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WoodySprites_93
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 41
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WoodySprites_94
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 22
+        width: 26
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WoodySprites_95
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 22
+        width: 25
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WoodySprites_96
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 20
+        width: 67
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WoodySprites_97
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 0
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

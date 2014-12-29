@@ -1,0 +1,1994 @@
+fileFormatVersion: 2
+guid: 07423436c4799784d9e2591050032c91
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_0
+    21300002: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_1
+    21300004: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_2
+    21300006: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_3
+    21300008: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_4
+    21300010: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_5
+    21300012: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_6
+    21300014: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_7
+    21300016: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_8
+    21300018: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_9
+    21300020: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_10
+    21300022: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_11
+    21300024: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_12
+    21300026: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_13
+    21300028: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_14
+    21300030: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_15
+    21300032: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_16
+    21300034: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_17
+    21300036: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_18
+    21300038: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_19
+    21300040: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_20
+    21300042: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_21
+    21300044: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_22
+    21300046: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_23
+    21300048: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_24
+    21300050: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_25
+    21300052: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_26
+    21300054: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_27
+    21300056: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_28
+    21300058: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_29
+    21300060: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_30
+    21300062: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_31
+    21300064: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_32
+    21300066: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_33
+    21300068: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_34
+    21300070: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_35
+    21300072: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_36
+    21300074: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_37
+    21300076: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_38
+    21300078: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_39
+    21300080: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_40
+    21300082: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_41
+    21300084: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_42
+    21300086: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_43
+    21300088: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_44
+    21300090: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_45
+    21300092: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_46
+    21300094: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_47
+    21300096: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_48
+    21300098: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_49
+    21300100: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_50
+    21300102: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_51
+    21300104: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_52
+    21300106: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_53
+    21300108: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_54
+    21300110: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_55
+    21300112: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_56
+    21300114: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_57
+    21300116: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_58
+    21300118: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_59
+    21300120: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_60
+    21300122: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_61
+    21300124: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_62
+    21300126: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_63
+    21300128: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_64
+    21300130: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_65
+    21300132: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_66
+    21300134: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_67
+    21300136: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_68
+    21300138: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_69
+    21300140: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_70
+    21300142: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_71
+    21300144: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_72
+    21300146: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_73
+    21300148: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_74
+    21300150: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_75
+    21300152: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_76
+    21300154: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_77
+    21300156: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_78
+    21300158: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_79
+    21300160: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_80
+    21300162: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_81
+    21300164: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_82
+    21300166: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_83
+    21300168: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_84
+    21300170: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_85
+    21300172: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_86
+    21300174: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_87
+    21300176: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_88
+    21300178: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_89
+    21300180: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_90
+    21300182: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_91
+    21300184: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_92
+    21300186: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_93
+    21300188: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_94
+    21300190: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_95
+    21300192: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_96
+    21300194: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_97
+    21300196: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_98
+    21300198: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_99
+    21300200: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_100
+    21300202: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_101
+    21300204: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_102
+    21300206: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_103
+    21300208: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_104
+    21300210: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_105
+    21300212: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_106
+    21300214: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_107
+    21300216: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_108
+    21300218: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_109
+    21300220: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_110
+    21300222: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_111
+    21300224: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_112
+    21300226: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_113
+    21300228: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_114
+    21300230: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_115
+    21300232: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_116
+    21300234: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_117
+    21300236: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_118
+    21300238: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_119
+    21300240: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_120
+    21300242: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_121
+    21300244: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_122
+    21300246: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_123
+    21300248: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_124
+    21300250: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_125
+    21300252: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_126
+    21300254: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_127
+    21300256: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_128
+    21300258: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_129
+    21300260: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_130
+    21300262: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_131
+    21300264: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_132
+    21300266: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_133
+    21300268: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_134
+    21300270: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_135
+    21300272: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_136
+    21300274: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_137
+    21300276: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_138
+    21300278: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_139
+    21300280: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_140
+    21300282: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_141
+    21300284: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_142
+    21300286: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_143
+    21300288: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_144
+    21300290: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_145
+    21300292: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_146
+    21300294: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_147
+    21300296: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_148
+    21300298: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_149
+    21300300: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_150
+    21300302: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_151
+    21300304: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_152
+    21300306: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_153
+    21300308: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_154
+    21300310: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_155
+    21300312: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_156
+    21300314: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_157
+    21300316: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_158
+    21300318: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_159
+    21300320: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_160
+    21300322: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_161
+    21300324: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_162
+    21300326: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_163
+    21300328: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_164
+    21300330: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_165
+    21300332: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_166
+    21300334: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_167
+    21300336: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_168
+    21300338: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_169
+    21300340: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_170
+    21300342: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_171
+    21300344: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_172
+    21300346: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_173
+    21300348: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_174
+    21300350: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_175
+    21300352: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_176
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 956
+        width: 62
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_1
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 958
+        width: 60
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_2
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 958
+        width: 49
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_3
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 960
+        width: 50
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 958
+        width: 55
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_5
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 961
+        width: 48
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_6
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 961
+        width: 54
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_7
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 961
+        width: 62
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_8
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 961
+        width: 62
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_9
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 961
+        width: 62
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_10
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 855
+        width: 71
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_11
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 847
+        width: 64
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_12
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 845
+        width: 58
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_13
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 846
+        width: 64
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_14
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 842
+        width: 56
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_15
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 844
+        width: 62
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_16
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 846
+        width: 63
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_17
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 851
+        width: 55
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_18
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 879
+        width: 57
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_19
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 881
+        width: 100
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_20
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 846
+        width: 73
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_21
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 731
+        width: 89
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_22
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 732
+        width: 55
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_23
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 732
+        width: 90
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_24
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 716
+        width: 68
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_25
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 716
+        width: 53
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_26
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 718
+        width: 58
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_27
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 716
+        width: 56
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_28
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 717
+        width: 80
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_29
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 746
+        width: 105
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_30
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 769
+        width: 106
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_31
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 727
+        width: 108
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_32
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 699
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_33
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 694
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_34
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 601
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_35
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 594
+        width: 64
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_36
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 594
+        width: 60
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_37
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 594
+        width: 59
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_38
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 649
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_39
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 671
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_40
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 634
+        width: 94
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_41
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 634
+        width: 56
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_42
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 609
+        width: 83
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_43
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 610
+        width: 58
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_44
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 660
+        width: 5
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_45
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 648
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_46
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 639
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_47
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 643
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_48
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 614
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_49
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 618
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_50
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 479
+        width: 60
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_51
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 479
+        width: 61
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_52
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 479
+        width: 76
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_53
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 479
+        width: 73
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_54
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 569
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_55
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 568
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_56
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 567
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_57
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 567
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_58
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 568
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_59
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 570
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_60
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 570
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_61
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 570
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_62
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 568
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_63
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 550
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_64
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 544
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_65
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 548
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_66
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 547
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_67
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 544
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_68
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 546
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_69
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 550
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_70
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 546
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_71
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 552
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_72
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 554
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_73
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 544
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_74
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 551
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_75
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 548
+        width: 26
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_76
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 549
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_77
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 545
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_78
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 543
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_79
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 543
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_80
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 506
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_81
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 505
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_82
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 510
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_83
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 515
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_84
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 504
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_85
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 506
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_86
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 517
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_87
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 509
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_88
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 503
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_89
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 508
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_90
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 503
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_91
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 507
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_92
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 352
+        width: 60
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_93
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 352
+        width: 49
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_94
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 354
+        width: 50
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_95
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 352
+        width: 55
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_96
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 355
+        width: 48
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_97
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 355
+        width: 54
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_98
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 352
+        width: 64
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_99
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 352
+        width: 68
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_100
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 353
+        width: 87
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_101
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 353
+        width: 93
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_102
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 353
+        width: 86
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_103
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 297
+        width: 7
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_104
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 298
+        width: 22
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_105
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 302
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_106
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 308
+        width: 41
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_107
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 313
+        width: 42
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_108
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 284
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_109
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 273
+        width: 9
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_110
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 308
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_111
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 300
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_112
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 276
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_113
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 290
+        width: 31
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_114
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 302
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_115
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 298
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_116
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 288
+        width: 33
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_117
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 286
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_118
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 289
+        width: 41
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_119
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 271
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_120
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 275
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_121
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 281
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_122
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 246
+        width: 7
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_123
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 259
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_124
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 262
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_125
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 261
+        width: 29
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_126
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 274
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_127
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 262
+        width: 42
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_128
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 251
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_129
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 257
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_130
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 247
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_131
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 129
+        width: 60
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_132
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 129
+        width: 49
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_133
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 131
+        width: 50
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_134
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 129
+        width: 55
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_135
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 132
+        width: 48
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_136
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 132
+        width: 54
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_137
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 128
+        width: 68
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_138
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 130
+        width: 73
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_139
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 197
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_140
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 197
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_141
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 197
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_142
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 197
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_143
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 166
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_144
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 166
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_145
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 7
+        width: 56
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_146
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 17
+        width: 71
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_147
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 9
+        width: 64
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_148
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 8
+        width: 58
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_149
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 8
+        width: 64
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_150
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 8
+        width: 56
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_151
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 10
+        width: 62
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_152
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 64
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_153
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 80
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_154
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 69
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_155
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 67
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_156
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 67
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_157
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 69
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_158
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 67
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_159
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 56
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_160
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 58
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_161
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 58
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_162
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 58
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_163
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 58
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_164
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 23
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_165
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 47
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_166
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 47
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_167
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 47
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_168
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 47
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_169
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 37
+        width: 38
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_170
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 37
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_171
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 37
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_172
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 37
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_173
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 26
+        width: 29
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_174
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 26
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_175
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 26
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Pretty Soldier Sailor Moon - Cat Burglar_176
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 8
+        width: 73
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
