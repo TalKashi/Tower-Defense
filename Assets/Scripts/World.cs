@@ -1,9 +1,10 @@
-﻿using System;
+﻿using UnityEngine;
+using System;
 
 public class World
 {
     public Action<string,int> NewToy;
-    public Action<string, int> ToyDied;
+    public Action<GameObject, int> ToyDied;
     public Action<string, int> NewSoldier;
     public Action<string, int> SoldierDied;
     public Action NewWave;
@@ -37,7 +38,7 @@ public class World
             NewToy(i_TypeOfToy, i_RowIndex);
     }
 
-    public void OnToyDied(string i_TypeOfToy, int i_RowIndex)
+    public void OnToyDied(GameObject i_TypeOfToy, int i_RowIndex)
     {
         if(ToyDied != null)
             ToyDied(i_TypeOfToy, i_RowIndex);

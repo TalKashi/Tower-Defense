@@ -19,6 +19,15 @@ public class Explotion : MonoBehaviour {
         toysInRange = parentScript.getToysInRadius();
         rigidbody2D.AddForce(Vector3.left * Speed);
 	}
+
+    void Update()
+    {
+        if (toysInRange == null)
+        {
+            AreaDeamageShot parentScript = GetComponentInParent<AreaDeamageShot>();
+            toysInRange = parentScript.getToysInRadius();
+        }
+    }
 	
 	void OnTriggerEnter2D(Collider2D other)
     {
@@ -35,7 +44,7 @@ public class Explotion : MonoBehaviour {
                     HealthBar currentHealthBar = toy.GetComponentInChildren<HealthBar>();
                     if (currentHealthBar.currentHP > 0 && currentHealthBar.TakeDamage(Damage))
                     {
-                        world.OnToyDied(toy.name, MyRow);
+                        world.OnToyDied(toy, MyRow);
                         toy.SendMessage("Fade", toy.GetComponent<SpriteRenderer>());
                     }
                 }

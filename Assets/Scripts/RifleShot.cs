@@ -24,7 +24,7 @@ public class RifleShot : MonoBehaviour
             {
                 if (health.TakeDamage(Damage))
                 {
-                    world.OnToyDied(other.name, MyRow);
+                    world.OnToyDied(other.gameObject, MyRow);
                     other.SendMessage("Fade", other.GetComponent<SpriteRenderer>());
                 }
                 Destroy(this.gameObject);
