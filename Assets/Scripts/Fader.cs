@@ -26,7 +26,8 @@ public class Fader : MonoBehaviour
     {
         m_FadeableObject = i_FadeableObject;
         StartFading = true;
-        gameObject.SendMessage("SetDyingState");
+        if(gameObject.name != "Box_Parachute")
+            gameObject.SendMessage("SetDyingState");
     }
 }
 

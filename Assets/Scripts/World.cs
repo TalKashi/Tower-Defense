@@ -12,7 +12,7 @@ public class World
     public Action NukeActivated;
     public Action FirstAidActivated;
     public Action PackageArrived;
-    public Action<string> PackageCollected;
+    public Action<Package> PackageCollected;
     public Action GameOver;
 
     private static World s_World;
@@ -86,7 +86,7 @@ public class World
             PackageArrived.Invoke();
     }
 
-    public void OnPackageCollected(string i_TypeOfPackage)
+    public void OnPackageCollected(Package i_TypeOfPackage)
     {
         if(PackageCollected != null)
             PackageCollected(i_TypeOfPackage);

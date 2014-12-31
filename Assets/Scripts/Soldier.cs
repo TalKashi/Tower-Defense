@@ -7,7 +7,10 @@ public class Soldier : MonoBehaviour {
     public int MyRow;
     public float TimeBetweenShots;
 
+    private Object MyLock = new Object();
+
     GameObject currentToy;
+    Animator anim;
     Transform burstPoint;
     World world = World.WorldInstance;
     LinkedList<GameObject> toysQueue;
@@ -22,6 +25,7 @@ public class Soldier : MonoBehaviour {
         world.ToyDied += ToyDiedListener;
         toysQueue = new LinkedList<GameObject>();
         dying = false;
+        anim = GetComponent<Animator>();
     }
 
     void Update()
@@ -46,6 +50,7 @@ public class Soldier : MonoBehaviour {
 
         if (Time.time - timeOfLastShot >= TimeBetweenShots)
         {
+            anim.SetBool("shoot", true);
             GameObject clone = (GameObject) Instantiate(Bullet, new Vector3(burstPoint.position.x, burstPoint.position.y, 0), Quaternion.identity);
             if(gameObject.name == "Shotgun_Soldier")
                 clone.GetComponent<RifleShot>().MyRow = MyRow;
@@ -59,42 +64,47 @@ public class Soldier : MonoBehaviour {
 
     void OnTriggerEnter2D(Collider2D other)
     {
-        Debug.Log(other.name + " entered soldier range");
-        if (other.tag == "Toy")
+        lock (MyLock)
         {
-            if (toysCount == 0)
+            Debug.Log(other.name + " entered soldier range");
+            if (other.tag == "Toy")
             {
-                currentToy = other.gameObject;
-            }
-            if(!toysQueue.Contains(other.gameObject))
-            {
-                toysCount++;
-                toysQueue.AddLast(other.gameObject);
+                if (toysQueue.Count == 0)
+                {
+                    currentToy = other.gameObject;
+                }
+                if (!toysQueue.Contains(other.gameObject))
+                {
+                    toysCount++;
+                    toysQueue.AddLast(other.gameObject);
+                }
             }
         }
     }
 
     void ToyDiedListener(GameObject TypeOfToy, int row)
     {
-        if (MyRow == row)
+        lock (MyLock)
         {
-            if (toysQueue.Count > 0)
+            if (MyRow == row)
             {
-                if (currentToy == TypeOfToy)
+                if (toysQueue.Count > 1)
                 {
-                    currentToy = toysQueue.First.Value;
-                    toysQueue.RemoveFirst();
+                    if (currentToy == TypeOfToy)
+                    {
+                        currentToy = toysQueue.First.Next.Value;
+                        //toysQueue.Remove(TypeOfToy);
+                    }
+
                 }
                 else
                 {
-                    toysQueue.Remove(TypeOfToy);
+                    currentToy = null;
                 }
+                if (!toysQueue.Remove(TypeOfToy))
+                    Debug.LogWarning("Tried to remove none existing toy (" + TypeOfToy.name + ")");
+                toysCount--;
             }
-            else
-            {
-                currentToy = null;
-            }
-            toysCount--;
         }
     }
 
@@ -102,18 +112,34 @@ public class Soldier : MonoBehaviour {
     {
         if (toysQueue.Count > 0)
         {
-            currentToy = toysQueue.First.Value;
+            if (toysQueue.First.Value == null)
+            {
+                toysQueue.RemoveFirst();
+            }
+            if(toysQueue.Count > 0)
+                currentToy = toysQueue.First.Value;
             //toysQueue.RemoveFirst();
         }
-        else
-        {
-            currentToy = null;
-        }
+        //else
+        //{
+        //    currentToy = null;
+        //}
         toysCount--;
     }
 
     void SetDyingState()
     {
         dying = true;
+    }
+
+    void StopShootingAnimation()
+    {
+        anim.SetBool("shoot", false);
+    }
+
+    void IncreaseHealth()
+    {
+        HealthBar health = GetComponentInChildren<HealthBar>();
+        health.HealToMax();
     }
 }

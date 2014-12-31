@@ -37,19 +37,31 @@ public class Explotion : MonoBehaviour {
         HealthBar health = other.GetComponentInChildren<HealthBar>();
         if (health.currentHP > 0)
         {
-            foreach (GameObject toy in toysInRange)
+            if (toysInRange == null)
             {
-                if(toy != null)
+                ApplyDamage(other.gameObject);
+            }
+            else
+            {
+                foreach (GameObject toy in toysInRange)
                 {
-                    HealthBar currentHealthBar = toy.GetComponentInChildren<HealthBar>();
-                    if (currentHealthBar.currentHP > 0 && currentHealthBar.TakeDamage(Damage))
+                    if (toy != null)
                     {
-                        world.OnToyDied(toy, MyRow);
-                        toy.SendMessage("Fade", toy.GetComponent<SpriteRenderer>());
+                        ApplyDamage(toy);
                     }
                 }
             }
             Destroy(transform.parent.gameObject);
+        }
+    }
+
+    void ApplyDamage(GameObject toy)
+    {
+        HealthBar health = toy.GetComponentInChildren<HealthBar>();
+        if (health.currentHP > 0 && health.TakeDamage(Damage))
+        {
+            //world.OnToyDied(toy, MyRow);
+            toy.SendMessage("Fade", toy.GetComponent<SpriteRenderer>());
         }
     }
 }

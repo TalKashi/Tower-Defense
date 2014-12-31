@@ -4,6 +4,8 @@ using System.Collections.Generic;
 public class Toy : MonoBehaviour {
 
     public float HitPower = 10f;
+    public float Speed = 0.05f;
+    public int MyRow = 0;
 
     World s_World = World.WorldInstance;
     Animator animator;
@@ -24,14 +26,14 @@ public class Toy : MonoBehaviour {
 	
 	// Update is called once per frame
 	void FixedUpdate () {
-        //HandleAnimation();
+        HandleAnimation();
         if (dying)
         {
             return;
         }
         if (walking)
         {
-            transform.position = Vector2.Lerp(transform.position, ((Vector2)transform.position) + right, 0.02f);
+            transform.position = Vector2.Lerp(transform.position, ((Vector2)transform.position) + right, Speed);
         }
         else if (hitting)
         {
@@ -73,8 +75,7 @@ public class Toy : MonoBehaviour {
 
     private void HandleAnimation()
     {
-        animator.SetBool("walk", walking);
-        animator.SetBool("fight", hitting);
+        animator.SetBool("fighting", hitting);
     }
 
     void engageEnemy(GameObject newSoldier)

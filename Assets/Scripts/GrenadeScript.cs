@@ -24,7 +24,8 @@ public class GrenadeScript : MonoBehaviour {
     public void SetDestination(Vector3 destination)
     {
         this.destination = destination;
-        this.destination.x += Offset;
+
+        this.destination.x += Random.Range(-Offset, Offset);
     }
 
     void Awake()
