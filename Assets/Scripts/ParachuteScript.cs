@@ -3,7 +3,8 @@ using System.Collections;
 
 public class ParachuteScript : MonoBehaviour {
 
-    Package package;
+    public Package package;
+
     Fader faderScript;
     World world = World.WorldInstance;
 
@@ -25,7 +26,7 @@ public class ParachuteScript : MonoBehaviour {
         }
         else if (random >= 3)
         {
-            package = Package.RPG_SODLIER;
+            package = Package.RPG_SOLDIER;
         }
         else
         {

@@ -4,6 +4,7 @@ using System.Collections.Generic;
 public class Soldier : MonoBehaviour {
 
     public GameObject Bullet;
+    public GameObject LeftCorner;
     public int MyRow;
     public float TimeBetweenShots;
 
@@ -62,13 +63,14 @@ public class Soldier : MonoBehaviour {
         }
     }
 
-    void OnTriggerEnter2D(Collider2D other)
+    void OnTriggerStay2D(Collider2D other)
     {
         lock (MyLock)
         {
-            Debug.Log(other.name + " entered soldier range");
-            if (other.tag == "Toy")
+            
+            if (other.tag == "Toy" && LeftCorner.transform.position.x <= other.transform.position.x)
             {
+                Debug.Log(other.name + " entered soldier range");
                 if (toysQueue.Count == 0)
                 {
                     currentToy = other.gameObject;

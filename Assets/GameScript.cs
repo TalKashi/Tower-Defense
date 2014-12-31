@@ -8,20 +8,24 @@ public class GameScript : MonoBehaviour {
     public GameObject Duck;
     public GameObject PotatoHead;
     public GameObject Package;
+    
     public float TimeBetweenPackages = 10;
+
+    World world = World.WorldInstance;
 
     private float top = 1.8f;
     private float mid = -0.5f;
     private float bottom = -2.5f;
     private float lastPackage = 0;
 
-    private const float X_POS = -21;
+    private const float X_POS = -15;
     private const float RIGHT_MOST_SCREEN = 7.5f;
     private const float LEFT_MOST_SCREEN = -RIGHT_MOST_SCREEN;
 
 	// Use this for initialization
 	void Start () {
-        CreateAllInSameRowRandom();
+        OneToyInEachRow();
+        //CreateDuckBottom();
         lastPackage = Time.time;
 	}
 	
@@ -32,6 +36,8 @@ public class GameScript : MonoBehaviour {
             CreatePackage();
             lastPackage = Time.time;
         }
+        if (Time.time > 10) ;
+            //world.OnNukeActivated();
 	}
 
     void CreatePackage()
