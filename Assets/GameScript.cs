@@ -1,4 +1,5 @@
 ﻿using UnityEngine;
+using UnityEngine.UI;
 using System.Collections;
 
 public class GameScript : MonoBehaviour {
@@ -8,15 +9,19 @@ public class GameScript : MonoBehaviour {
     public GameObject Duck;
     public GameObject PotatoHead;
     public GameObject Package;
-    
+    public Image NukeImageFlash;
+    public float flashSpeed = 5f;
     public float TimeBetweenPackages = 10;
 
     World world = World.WorldInstance;
+    Color flashColour = new Color(1, 1, 1, 0.9f);
 
     private float top = 1.8f;
     private float mid = -0.5f;
     private float bottom = -2.5f;
     private float lastPackage = 0;
+    private bool isNukeActivated = false;
+    private bool hasBeenCalled = true;
 
     private const float X_POS = -15;
     private const float RIGHT_MOST_SCREEN = 7.5f;
@@ -27,6 +32,8 @@ public class GameScript : MonoBehaviour {
         OneToyInEachRow();
         //CreateDuckBottom();
         lastPackage = Time.time;
+        world.NukeActivated += OnNukeActivatedListener;
+        NukeImageFlash.color = Color.clear;
 	}
 	
 	// Update is called once per frame
@@ -36,9 +43,27 @@ public class GameScript : MonoBehaviour {
             CreatePackage();
             lastPackage = Time.time;
         }
-        if (Time.time > 10) ;
-            //world.OnNukeActivated();
+        if (Time.time > 10 && hasBeenCalled)
+        {
+            world.OnNukeActivated();
+            hasBeenCalled = false;
+        }
+
+        if (isNukeActivated)
+        {
+            NukeImageFlash.color = flashColour;
+        }
+        else
+        {
+            NukeImageFlash.color = Color.Lerp(NukeImageFlash.color, Color.clear, flashSpeed * Time.deltaTime);
+        }
+        isNukeActivated = false;
 	}
+
+    void OnNukeActivatedListener()
+    {
+        isNukeActivated = true;
+    }
 
     void CreatePackage()
     {
